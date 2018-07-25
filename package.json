@@ -1,6 +1,6 @@
 {
   "name": "docs-maker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "placeholder",
   "repository": "https://github.com/WeAreGenki/docs-maker",
   "bugs": "https://github.com/WeAreGenki/docs-maker/issues",
@@ -10,7 +10,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@wearegenki/ui": "0.12.0"
-  }
+  "dependencies": {}
 }
